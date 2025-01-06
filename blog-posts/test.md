@@ -6,7 +6,7 @@ author: "John Doe"
 authorImage: "/images/authors/john.jpg"
 category: "Development"
 tags: "DeFi, Blockchain, Web3"
-coverImage: "https://images.unsplash.com/photo-1642790595397-f6c0059e1354"
+coverImage: "https://pbs.twimg.com/profile_banners/1794031612042059777/1733823745/1500x500"
 readTime: "5 min read"
 ---
 
